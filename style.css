@@ -615,10 +615,11 @@ section{
         width: 100%;
         padding: 10px;
     }
-    .card {
-        display: flex;
-        flex-direction: column;
+    .services.card {
+        display: block;
+        justify-content: center;
         align-items: center;
+        width:100%;
     }
     
     
